@@ -1,0 +1,2 @@
+- =div= is like all-purpose box in HTML. Do anything with the block.
+- Everything can be hardcoded into the HTML. However, it is not a very sustainable route in the long term. Better fill it programmatically using JS.
